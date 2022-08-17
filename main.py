@@ -6,7 +6,6 @@ import wikipedia
 import os
 import pyjokes
 import randfacts
-from plyer import notification
 
 engine = pyttsx3.init('sapi5')
 voices = engine.getProperty('voices')
