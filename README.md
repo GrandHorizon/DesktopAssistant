@@ -12,4 +12,6 @@ This is a desktop assistant that helps you to automate tasks. Note that it requi
 * pyjokes 
 * randfacts
 
+## Credit - GrandHorizon
+
 
